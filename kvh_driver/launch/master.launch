@@ -1,0 +1,4 @@
+<?xml version="1.0"?>
+<launch>
+    <node name="master" pkg="kvh_driver" type="kvh_driver_node" output="screen"/>
+</launch>
