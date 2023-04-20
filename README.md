@@ -5,7 +5,7 @@ This is the driver for the KVG 1750 Fiber Optic Gyro IMU
 `cd catkin_ws/src`
 
 1. Copy repository
-`git clone https://github.com/RVeR-Lab/kvh.git`
+`git clone https://github.com/RIVeR-Lab/kvh.git`
 
 2. Install necessary accompanying packages
 `sudo apt-get install ros-melodic-device-driver`
